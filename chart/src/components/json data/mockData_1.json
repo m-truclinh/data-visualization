@@ -1,0 +1,146 @@
+[
+  {
+    "chapter": "1",
+    "score": "0.70",
+    "edited": "0.80",
+    "version": "1",
+    "timestamp": "1481171640",
+    "role": "finalexam",
+    "problem_nr": "1"
+  },
+  {
+    "chapter": "1",
+    "score": "0.40",
+    "edited": "0.50",
+    "version": "2",
+    "timestamp": "1491173213",
+    "role": "finalexam",
+    "problem_nr": "3"
+  },
+  {
+    "chapter": "1",
+    "score": "0.70",
+    "edited": "1",
+    "version": "5",
+    "timestamp": "1542612169",
+    "role": "finalexam",
+    "problem_nr": "1"
+  },
+  {
+    "chapter": "1",
+    "score": "0.40",
+    "edited": "0.50",
+    "version": "2",
+    "timestamp": "1543602169",
+    "role": "finalexam",
+    "problem_nr": "2"
+  },
+  {
+    "chapter": "1",
+    "score": "0.60",
+    "edited": "0.90",
+    "version": "1",
+    "timestamp": "1471171213",
+    "role": "finalexam",
+    "problem_nr": "4"
+  },
+  {
+    "chapter": "1",
+    "score": "0.70",
+    "edited": "1",
+    "version": "15",
+    "timestamp": "1520047803",
+    "role": "finalexam",
+    "problem_nr": "1"
+  },
+  {
+    "chapter": "1",
+    "score": "0.90",
+    "edited": "1",
+    "version": "2",
+    "timestamp": "1520047844",
+    "role": "training",
+    "problem_nr": "1"
+  },
+  {
+    "chapter": "9",
+    "subchapter": "3",
+    "score": "0.70",
+    "edited": "0.80",
+    "version": "6",
+    "timestamp": "1543431352 ",
+    "role": "quiz",
+    "problem_nr": "3"
+  },
+  {
+    "chapter": "2",
+    "subchapter": "3",
+    "score": "0.60",
+    "edited": "0.70",
+    "version": "3",
+    "timestamp": "1505637411",
+    "role": "training",
+    "problem_nr": "2"
+  },
+  {
+    "chapter": "4",
+    "subchapter": "2",
+    "score": "0.90",
+    "edited": "1",
+    "version": "4",
+    "timestamp": "1471181213",
+    "role": "quiz",
+    "problem_nr": "3"
+  },
+
+  {
+    "chapter": "9",
+    "subchapter": "2",
+    "score": "0.40",
+    "edited": "0.50",
+    "version": "5",
+    "timestamp": "1500004000 ",
+    "role": "quiz",
+    "problem_nr": "3"
+  },
+  {
+    "chapter": "6",
+    "subchapter": "4",
+    "score": "0.70",
+    "edited": "0.90",
+    "version": "3",
+    "timestamp": "1505631234",
+    "role": "training",
+    "problem_nr": "2"
+  },
+  {
+    "chapter": "7",
+    "subchapter": "1",
+    "score": "0.80",
+    "edited": "0.85",
+    "version": "1",
+    "timestamp": "1471201213",
+    "role": "quiz",
+    "problem_nr": "4"
+  },
+  {
+    "chapter": "10",
+    "subchapter": "5",
+    "score": "0.50",
+    "edited": "0.67",
+    "version": "3",
+    "timestamp": "14716715476",
+    "role": "training",
+    "problem_nr": "2"
+  },
+  {
+    "chapter": "9",
+    "subchapter": "1",
+    "score": "0.90",
+    "edited": "0.96",
+    "version": "3",
+    "timestamp": "14719615476",
+    "role": "quiz",
+    "problem_nr": "3"
+  }
+]
